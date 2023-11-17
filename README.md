@@ -1,4 +1,8 @@
 https://github.com/Ahenao16/Server-Proyecto-3.git
 https://github.com/Ahenao16/Interfaces-Proyecto-3.git
 
-Enlaces a los 2 repositorios creados para el proyecto.
+Enlaces a los 2 repositorios creados para el proyecto. 
+Alejandro Henao
+Jorge Gutiérrez
+Christian Navarro
+Isaac Corrales
